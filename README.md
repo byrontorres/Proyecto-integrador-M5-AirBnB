@@ -1,2 +1,3 @@
-# Proyecto-integrador-M5-AirBnB
-Análisis exploratorio de tipo descriptivo para entender el negocio de airbnb.  En base al análisis descriptivo encontrar oportunidades de inversión que puedan ser capitalizadas utilizando dicho modelo de negocio.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f047f5acc540c6c3ba7ef862938faf195fb45fffc377c858b1a01cbf2de3fca
+size 6192
